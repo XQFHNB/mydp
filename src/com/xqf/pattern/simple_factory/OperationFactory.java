@@ -1,5 +1,5 @@
 
-package com.xqf.pattern;
+package com.xqf.pattern.simple_factory;
 
 
 class OperationPlus extends Operation {

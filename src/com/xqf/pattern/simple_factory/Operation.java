@@ -1,4 +1,4 @@
-package com.xqf.pattern;
+package com.xqf.pattern.simple_factory;
 
 /**
  * 运算父类
